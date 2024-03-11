@@ -23,4 +23,3 @@ input.addEventListener("change", function (){
 
     }
 })
-
